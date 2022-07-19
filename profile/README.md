@@ -1,12 +1,8 @@
-## Hi there 👋
+## QuickOn (渠成企业软件百宝箱)
 
-<!--
+渠成企业管理软件百宝箱(QuickOn)
+渠成企业管理软件百宝箱 简称 渠成百宝箱 是 北京渠成软件有限公司自主设计、研发的开源轻量级应用交付平台。通过渠成应用市场，您可以一键安装企业级软件，不仅具备高可用特性，还支持自动与手动备份，当有新版本发布时，您可以查看软件的更新日志，并决定是否升级。
 
-**Here are some ideas to get you started:**
+渠成百宝箱底层基于容器和Kubernetes技术，通过Helm进行应用的封装，提供了渠成应用市场、服务管理、服务监控与告警、日志管理与审计、集群管理等平台功能，平台代码及应用镜像代码完全公开。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+我们秉承Unix哲学，坚持用简单的方法来解决问题，因此平台在设计之初就坚持简单的原则，将底层复杂的技术进行了抽象和屏蔽，让使用者更专注于平台应用本身的体验，同时提供了应用的一键安装、升级、备份与回滚功能。渠成百宝箱，您可信赖的企业软件管理助手。
