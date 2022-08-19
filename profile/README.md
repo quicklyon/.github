@@ -9,3 +9,11 @@
 项目源码：https://github.com/easysoft/quickon
 
 ## 这里是应用市场的容器镜像源码
+
+### 交流QQ群(768721743)
+
+- 安装使用问题反馈
+- 应用问题反馈
+- 新应用上架需求等
+
+<img src="https://img.qucheng.com/group/qq.jpg" width="300" height="300">
