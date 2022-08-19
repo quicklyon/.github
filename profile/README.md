@@ -16,4 +16,4 @@
 - 应用问题反馈
 - 新应用上架需求等
 
-<img src="https://img.qucheng.com/group/qq.jpg" width="300" height="300">
+<img src="https://img.qucheng.com/group/qq.jpg" width="300">
